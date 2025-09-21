@@ -1,1 +1,2 @@
 # Insurance-Risk-and-Claims-Analysis
+This dataset contains detailed information about car insurance policyholders, their vehicles, and their claim history. Each record represents an individual customer with demographic details such as birthdate, gender, marital status, education level, household income, and parental status. These attributes provide a strong basis for understanding customer profiles and how personal characteristics may influence driving behaviour and insurance risk.
